@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Lindsey his declaration and iustification who is now prisoner in Warwicke Castle: wherein he declares the iustice of His Majesties cause in taking armes for the preservation of His royall person and prerogative. Being a patterne of loyalty, and mirrour of obedience, for all His Majesties loving subjects to be rightly guided by</title>
+            <author>Lindsey, Montague Bertie, Earl of, 1608?-1666.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48597</idno>
+            <idno type="STC">Wing L2330</idno>
+            <idno type="STC">ESTC R222190</idno>
+            <idno type="EEBO-CITATION">99833410</idno>
+            <idno type="PROQUEST">99833410</idno>
+            <idno type="VID">37886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48597)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37886)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2174:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Lindsey his declaration and iustification who is now prisoner in Warwicke Castle: wherein he declares the iustice of His Majesties cause in taking armes for the preservation of His royall person and prerogative. Being a patterne of loyalty, and mirrour of obedience, for all His Majesties loving subjects to be rightly guided by</title>
+                  <author>Lindsey, Montague Bertie, Earl of, 1608?-1666.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.] ;</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>Printed in the yeare M,DC.XLII. [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing; "perhaps the Oxford original, but it is difficult to be certain where this ... was printed" (Madan).</note>
+                  <note>Another edition, with title reading: "A declaration and justification of the Earle of Lindsey", has a false Oxford imprint.</note>
+                  <note>Copy closely trimmed, with some staining; title page annotation in MS. reads: "Robert Bertie".</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37886:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:37886:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <p>THE EARLE OF LINDSEY <hi>HIS</hi> Declaration and Iuſtification, <hi>Who is now priſoner in Warwicke Caſtle:</hi> Wherein He Declares the Iuſtice of His MAjESTIES cauſe in taking Armes for the preſervation of His Royall Perſon and Prerogative.</p>
+            <p>Being <hi>A patterne of Loyalty, and Mirrour of Obedience, for all His Majesties loving Subjects to be rightly guided by</hi>
+            </p>
+            <figure/>
+            <p>
+               <hi>Printed in the Yeare</hi> M.DC.XLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37886:2"/>
+            <!-- PDF PAGE 14 -->
+            <pb n="1" facs="tcp:37886:2"/>
+            <!-- PDF PAGE 14 -->
+            <head>A DECLARATION AND Iuſtification of the Earle of <hi>Lindſey,</hi> now priſoner in <hi>VVarwicke</hi> Caſtle, where he makes apparent the juſtice of His Majeſties cauſe in taking Armes for the preſervation of His Royall Perſon and Prerogative.</head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N the diſtreſſe wherein I doe remaine, it doth bring great comfort unto me to heare of the continuance of your health, and of the good ſucceſſe of His Majeſties Armes, there is no happier newes that can arrive to turne my fetters into free<g ref="char:EOLhyphen"/>dome, or my ſorrowes into hopes, or which can prefer them ſooner into the abſolute poſſeſſion of joy. In this apprehenſion (mee thinks) I am not the per<g ref="char:EOLhyphen"/>ſon which I was, and the more cloſe my body is reſtrained, the more enlarged and noble is my mind. This is the hap<g ref="char:EOLhyphen"/>pineſſe which I have gained by the ſolitude of my thral<g ref="char:EOLhyphen"/>dome, and whiles my enemies have endeavoured to afflict me, they have befriended me: In this only I have juſt reaſon to lament, that I cannot enjoy that immediate influence from His Majeſties aſpects which you doe, and I have thoſe his incomparable vertues in contemplation only, which you really doe behold and daily doe derive from them more
+<pb n="2" facs="tcp:37886:3"/>
+               <!-- PDF PAGE 15 -->glory, by the full obſervation of their admirable working. His Majeſty like unto Him whoſe ſecond he is, gives reſtleſſe Demonſtrations of Religion, Juſtice, Prudence, and Mode<g ref="char:EOLhyphen"/>ration unto all; and conſtant in His owne goodneſſe, offers mercy unto thoſe whoſe ſwords have taught Him to be mercileſſe: And by a high example of wonderfull pietie to avoid the effuſion of their owne bloud, the King ſtoopes un<g ref="char:EOLhyphen"/>to His Subjects, and the Conquerour unto the conquer'd. I would willingly fall a martyr in this cauſe, and I am ſorry that I have not loſt my life rather then my liberty for the juſtice of it. I have a long time beene detain'd a priſoner, (for who can charg me of any other crime?) my adverſaries would make the world beleeve, that they do me ſome great favour when they leave it to my free election, whether I will be ſo, or no. Do they beleeve that any is ſo in love with fetters that he would not change them for his freedome, were the conditions equall and proportionable to them? Some of my freinds have told me, and would perſwade me to a beliefe, that my liberty may be gained: It may be gained peradventure indeed, but how? As from Merchants that value it at ſo high a rate that my fidelity, honour, and all that is deare unto a noble mind, muſt be the price to purchaſe it. If I refuſe what they propound, the loſſe of goods, of lands, and by the length of my reſtraint, peradventure the loſſe of life it ſelfe muſt be the price that ſhall pay my ranſome. This is a hard choice; it is in my power to be a freeman they do alleadge: but how? if I will be a ſlave, fall off from the ex<g ref="char:EOLhyphen"/>ample of my noble Father, and Predeceſſors, who laid the foundation of their firſt honours on their loyalties and their obedience to their Prince<g ref="char:punc">▪</g> If I will abandon His Majeſties ſervice in the warr, and enter into a new covenant and Pro<g ref="char:EOLhyphen"/>teſtation with them to take up Armes on their ſide, as if trea<g ref="char:EOLhyphen"/>ſon were nothing unleſſe I made it Sacramentall. I have al<g ref="char:EOLhyphen"/>ready
+<pb n="3" facs="tcp:37886:3"/>
+               <!-- PDF PAGE 15 -->given my faith unto my Prince, (upon whoſe head this Crowne is by the law of Nature and of Nations juſtly fallen) ſhall I falſifie that faith, and joine unrighteous hands with theirs to trouble the peace and the ſplendor of it, Heaven forbid? But they alleadge againe; that in this cauſe of theirs, Religion, the priviledges of Parliament, the Liberty of the Subject, and glorious hopes and ſhewes are pretended. Dare not all Rebels cloake their purpoſes with ſuch goodly titles? Hath not His Majeſty, in whom alone the cheife power doth conſiſt, given many and ſtrong aſſu<g ref="char:EOLhyphen"/>rances to maintaine the ſame? hath He not taken Proteſta<g ref="char:EOLhyphen"/>tions too ſacred to be profaned by the jealouſies, or miſcon<g ref="char:EOLhyphen"/>ſtructions of any whatſoever? that He will preſerve the Proteſtant Religion in that forme and purity, as it was in the dayes of <hi>Queene Elizabeth,</hi> and His Father of bleſſed Me<g ref="char:EOLhyphen"/>morie? Hath He not with true zeale and juſtice, complained of the great ſcorne and diſregard, that is caſt upon the Ser<g ref="char:EOLhyphen"/>vice of God in the Booke of Common Prayer? and that while Religion is pretended to be reformed it is deſtroyed? Truely (my Lord) they are much deceived who think that Religion and rebellion can be companions, or that God will favour their attempts that ſtrike at himſelfe through the Princes ſides. In that very word the King, there is ſuch a Deity incloſed, that who wounds them wounds the Divine Nature. Why then ſhould the ſword be ſo raſhly drawne un<g ref="char:EOLhyphen"/>der ſo holy a vaile? was Religion ever built on bloud? 'Tis true indeed, the bloud of the martyrs hath bin the foundati<g ref="char:EOLhyphen"/>on of the Church. But (my Lord) we muſt know againe that it is not their bloud, but their Cauſe that made them martyrs; and that the beſt Martyrs were ſo far from oppo<g ref="char:EOLhyphen"/>ſing the authority of Princes, that they willingly did ſubmit their lives to their commands. I can never read that they made any one inſurrection to oppoſe their Prince, or any in<g ref="char:EOLhyphen"/>feriour Authorities derived from Him. <hi>Tertullian</hi> and <hi>St.
+<pb n="4" facs="tcp:37886:4"/>
+                  <!-- PDF PAGE 16 -->Hierome</hi> (to whom I am beholding to my impriſonment for our beſt acquaintance) doth informe me, that in thoſe an<g ref="char:EOLhyphen"/>cient times of elabourate Perſecution, when invention lived almoſt altogether on the bloud of Chriſtians, and cruelty grew witty to torment them, that they only contended a<g ref="char:EOLhyphen"/>gainſt them in the Prayers for their converſion, and in the holy examples of a virtuous life, whereby they ſo much multiplied, that in few years the army of the Chriſtians were the beſt protection and Lifeguard of their Emperours, although Heathens; And thus the Primitive Chriſtians did ever propagate the Goſpel with no other then their owne bloud, which at all times they did ſhed, not only to God, but to their owne Princes although Pagans, but never a<g ref="char:EOLhyphen"/>gainſt them. <hi>As the Devill was the firſt Rebell, ſo Iudas was the firſt traytor amongſt the Apoſtles, and ſhall we rank our ſelves with ſuch hated Examples of Diſloyalty and Treacherie.</hi> But were the cauſe good? Are the armes of the Parliament to be preferred to the Army of His Majeſty? are they able to contend with Him? when have we fought with them, but they have beene beaten? At the battel of <hi>Keinton</hi> where my Father loſt his life, and my ſelfe my liberty, (although in my owne particulars, I have ſmall reaſon to ſpeake of the ſucceſſe of that day) yet I believe in that field was tried to the uttermoſt what the courage or the numbers of our Ad<g ref="char:EOLhyphen"/>verſaries could performe. We obſerve that His Majeſty with His Armie ſtill kept the field, and I would it had beene my happineſſe to have kept it with Him, or to have ſealed there the obligation of my Loyalty with the deareſt bloud I have. We ſhall finde the forces of our Adverſaries, or ra<g ref="char:EOLhyphen"/>ther the reliques of their forces to retreate with what ſpeed they could to this place of ſafety, where they made my ſelfe and ſome other captives the excuſes of their coming, when indeed their owne neceſſities were the cheife occa<g ref="char:EOLhyphen"/>ſions that did induce them to it, whiles the Army of His
+<pb n="5" facs="tcp:37886:4"/>
+               <!-- PDF PAGE 16 -->Majeſty unfollowed by the enemie, in a ſecure march was making up towards <hi>Lòndon.</hi> I will paſſe over the fight before neare unto <hi>Worceſter,</hi> &amp; the defeat given them after neare unto <hi>Brainceford.</hi> We ſhall find that victory hath beene carefull alwayes to attend the ſound of His Majeſties drums and His Cannons, and with broad wings to cover his head in the day of battel, and at the end of every fight to be ſeene to pearch again and to reſt her ſelfe on the ſafe creſt of His glo<g ref="char:EOLhyphen"/>rious helmet: we find His Majeſties Armies to increaſe daily both in number &amp; in courage, whiles their expectations, and aid from <hi>Scotland,</hi> move not at all, or very ſlowly forward. They have no new places to reſort unto for ſuccour. To look for it in the <hi>Netherlands</hi> is in vaine, the <hi>Engliſh</hi> Regiments you know are there wholy devoted to His Majeſties ſer<g ref="char:EOLhyphen"/>vice, and a league betwixt both Princes is cemented by a ſtrong tie of Marriage: To depend upon any forraigne aſ<g ref="char:EOLhyphen"/>ſiſtances were to build new Caſtles in the aire, and beſides whereſoever they ſhall addreſſe themſelves, they ſhall find that who appear diſloyall to one King, will be diſtaſtefull to all Kings. Their perſons and their cauſe, will be there no leſſe odious then their religion. It is eaſie to beginne, but let them obſerve the event of ſuch ill-grounded warr. We have ſeene with horror the miſeries that attend it, as the firing of houſes, waſting of goods, famine, Rapes, Ruine of towns and cities, and the unjuſt Libertie uſurped, loſt in an inſtant, and for ever. The reſpects of wife, children and blood, are ties which by nature man doth hold moſt deare. If we pitty not our ſelves, let us not forget them that are ſo precious unto us, Kings have ſtrong hands to put bits in the moſt ſtubborne mouthes: if they cannot reliſh gentle ſubiection, how will they digeſt ſlaverie? I would adviſe them therefore, not to put back this bleſſed Arme that ſtretcheth out to receive the<g ref="char:cmbAbbrStroke">̄</g> when the ſword hath made more havock, and all is wilder<g ref="char:EOLhyphen"/>neſſe, they will then beg for that they now refuſe. For my
+<pb n="6" facs="tcp:37886:5"/>
+               <!-- PDF PAGE 17 -->part (my Lord) I am in their powers, and if it ſhould fall in<g ref="char:EOLhyphen"/>to their hands, I know not how this free ſpeech of a priſoner would be taken by them. Howſoever they diſpoſe of me, I will never diſtayne my Anceſtours, nor leave that foule title of a traitor, as an inheritance to my Poſterity: they may when they pleaſe take my head from my ſhoulders, but never my heart from my Soveraigne. All my hopes are anchored on God, and the good ſucceſſe of His Majeſties Armes, and on the Juſtice of His cauſe, for which my prayers ſhall never be wanting. Through the ſad misfortune and melancholly of my bondage, I have now exchanged the practice of a ſouldi<g ref="char:EOLhyphen"/>er for penſive ſolitude, and the ſloth of contemplation; wherein I receive the more delight, that I have the more leiſure to obſerve and collect the activeneſſe of your ſpirit, the action of your vertues, and the brave Spheare in whom they move: which might puzzle a farre better Mathemati<g ref="char:EOLhyphen"/>cian then my ſelfe. I have the leiſure to peruſe and contem<g ref="char:EOLhyphen"/>plate ſometimes on thoſe excellent ſpeeches, delivered by the Lord <hi>Digby,</hi> and the Lord <hi>Falkland,</hi> men of admittable faculty, and who can conquer with their pea, as well as with their ſwords: and I do congratulate the happineſſe of <hi>Oxford</hi> that in their ages, doth now againe enjoy thoſe wits which in their infancies ſhe did nouriſh. I looke on the advancing of my Lord of <hi>Newcaſtles</hi> Forces with a great deale of hope, &amp; beleeve as he marcheth by, he will do us the good office, as to make it his complement to wiſh his friends ſo happy as to keepe him company in his approach to His Majeſtie: Aſſureing you that nothing under Heaven, can convey a more abſolute content unto my heart, then to be ſo happy as to kiſſe againe His Majeſties hand, and to expreſſe my ſelfe to be,</p>
+            <closer>
+               <signed>(My Lord) <hi>Your moſt humble, and most affectionate ſervant,</hi> LYNDSEY.</signed>
+            </closer>
+            <pb facs="tcp:37886:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 17 -->
+            <gap reason="intruder" extent="1 page">
+               <desc>〈1 page inserted from a different book〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
